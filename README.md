@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Linkslayer53
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in Game Design
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on anything rly
 - 📫 How to reach me don't reach me outside of github
 
 <!---
